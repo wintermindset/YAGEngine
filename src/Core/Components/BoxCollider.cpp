@@ -1,0 +1,5 @@
+class BoxCollider {
+private:
+
+public:
+};
