@@ -1,5 +1,1 @@
-class BoxCollider {
-private:
-
-public:
-};
+#include "BoxCollider.h"
