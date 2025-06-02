@@ -1,6 +1,6 @@
 #pragma once
 
-#include "..\Objects\Level.h"
+#include "..\GameFramework\Level.h"
 
 class LevelLoader {
 private:
@@ -15,5 +15,5 @@ public:
         return level_loader;
     }
 
-    void load_for_level(const Level level);
+    void load_for_level(const Level& level);
 };

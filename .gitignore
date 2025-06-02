@@ -1,3 +1,14 @@
 build
 bin
 .vscode
+*.pro.user
+*.pro.user.*
+*.moc
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.dSYM/
+*.qrc.cpp
+*.qrc.h

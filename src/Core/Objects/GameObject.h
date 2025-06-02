@@ -2,8 +2,6 @@
 
 #include "..\..\Utilities\Containers\Vector2D.h"
 
-using YAGEngine::Vector2D;
-
 class GameObject {
 private:
     Vector2D<int> coordinates;

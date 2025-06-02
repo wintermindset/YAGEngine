@@ -1,3 +1,8 @@
 #pragma once
 
-class Controller {};
+class Controller {
+private:
+
+public:
+    
+};
